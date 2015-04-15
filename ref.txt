@@ -2,4 +2,5 @@ mongodb https://docs.mongodb.org/manual/
 general http://stackoverflow.com/
 ipython  http://ipython.org/documentation.html
 markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+sample project https://docs.google.com/document/u/0/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
 and google searches and class materials
