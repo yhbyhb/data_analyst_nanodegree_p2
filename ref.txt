@@ -1,0 +1,5 @@
+mongodb https://docs.mongodb.org/manual/
+general http://stackoverflow.com/
+ipython  http://ipython.org/documentation.html
+markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+and google searches and class materials

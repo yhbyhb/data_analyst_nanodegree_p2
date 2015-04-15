@@ -1,0 +1,9 @@
+map link : https://www.openstreetmap.org/export#map=13/37.3779/-121.9415
+
+Map Area : part of Silicon Valley (including San José and Santa Clara), CA, United States 
+https://www.openstreetmap.org/#map=13/37.3780/-121.9116
+  * longitude -122.0554 ~ -121.8277
+  * latitude 37.4588 ~ 37.2969
+
+Reason for choice
+I visited San José in 2010 and 2013 for attending conference. After conference, I traveled some places in Silicon Valley with google map. That memories make me choosing this area.
