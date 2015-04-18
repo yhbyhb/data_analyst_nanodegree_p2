@@ -120,9 +120,11 @@ def shape_element(element):
                 elif re.search(lower, k) != None:
                     node[k] = child.attrib['v']
                 elif re.search(lower_colon, k) != None:
-                    if k.startswith("addr:") and len(k.split(":")) == 2:
-
-                        address[k.split(":")[1]] = child.attrib['v']
+                    if len(k.split(":")) == 2:
+                        if k.startswith("addr:"):
+                            address[k.split(":")[1]] = child.attrib['v']
+                        else:
+                            node[k] = child.attrib['v']
             elif child.tag == "nd":
                 node_refs.append(child.attrib["ref"])
 

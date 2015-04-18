@@ -1,7 +1,16 @@
 """
 Auditing and cleaning adresses
-
 Referenced Lesson 6 - 11 Improving Street Names
+
+audit.py audits and cleans street names in the given osm file.
+It generetes 'audit.log' for help cleaning address name and 'clean.log' for preview of cleaning results.
+Use function 'update_name' for cleaning street name.
+
+The function 'audit' audits a osm file with basic data of osm file 'node' and 'way'
+ - Check streent name with expected name list. if it is not in the 'expected', group them for cleaning
+
+The function 'update_name' return a cleaned steert name with given 'mapping' table.
+
 """
 import xml.etree.cElementTree as ET
 from collections import defaultdict
@@ -80,6 +89,7 @@ def test():
                 better_name = update_name(name, mapping)
                 if (name != better_name):
                     pprint.pprint(name + ' | ' + better_name, fout)
+                    print name, '->', better_name
 
 if __name__ == '__main__':
     test()

@@ -1,7 +1,20 @@
-mongodb https://docs.mongodb.org/manual/
-general http://stackoverflow.com/
-ipython  http://ipython.org/documentation.html
-markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-openstreetMap wiki  http://wiki.openstreetmap.org/wiki/Map_Features
-sample project https://docs.google.com/document/u/0/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+mongodb : https://docs.mongodb.org/manual/
+pymongo :http://api.mongodb.org/python/current/index.html
+general : http://stackoverflow.com/
+
+markdown : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+openstreetMap_wiki : http://wiki.openstreetmap.org/
+sample_project : https://docs.google.com/document/u/0/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+
+ipython : http://ipython.org/documentation.html
+R_in_ipython_notebook : http://nbviewer.ipython.org/gist/yoavram/5280132
+
+ggplot2 :
+http://docs.ggplot2.org
+http://stackoverflow.com/questions/2409317/how-to-adjust-time-scale-axis-for-ggplot-histogram
+historical_ggplot_with_R : http://stackoverflow.com/questions/10770698/understanding-dates-and-plotting-a-histogram-with-ggplot2-in-r
+
+datetime.datetime JSON serialization in python :
+http://stackoverflow.com/questions/11875770/how-to-overcome-datetime-datetime-not-json-serializable-in-python
+
 google searches and class materials

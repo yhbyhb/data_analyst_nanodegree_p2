@@ -439,7 +439,9 @@
     "user": "chicago-buildings", 
     "timestamp": "2013-03-13T15:58:04Z"
   }, 
+  "building:levels": "1", 
   "visible": "true", 
+  "chicago:building_id": "366409", 
   "address": {
     "street": "West Lexington St.", 
     "housenumber": "1412"
